@@ -1,0 +1,12 @@
+<form (ngSubmit)="callAdd()" [formGroup]="mathForm">
+    <label for="num1">Number 1</label>
+    <input id="num1" type="number" formControlName="one">
+
+    <label for="num2">Number 2</label>
+    <input id="num2" type="number" formControlName="two">
+
+    <button type="submit">Submit</button>
+
+    <label for="res">Result</label>
+    <input id="res" type="number" formControlName="res">
+</form>
