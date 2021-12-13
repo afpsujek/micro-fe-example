@@ -34,8 +34,8 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "C:\\Code\\Samples\\micro-fe-element-one\\elements\\elOne.js",
-              "C:\\Code\\Samples\\micro-fe-element-two\\elements\\elTwo.js"
+              "..\\elements\\elOne.js",
+              "..\\elements\\elTwo.js"
             ]
           },
           "configurations": {
